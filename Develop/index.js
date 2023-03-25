@@ -51,12 +51,6 @@ const questions = [
         message: 'Provide your email address:',
         name: 'email',
     }
-
-
-
-
-
-
 ];
 
 // TODO: Create a function to write README file
