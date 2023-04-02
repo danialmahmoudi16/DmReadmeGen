@@ -1,4 +1,4 @@
-# ReadMe Generator  
+# ReadMe Generator 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
@@ -23,7 +23,7 @@
   MIT
 
   ## Contribution
-  Fork to the existing Github and potential changes may be made depending on if improvements are necessary.
+  Fork to existing Github and potential changes may be made depending on if improvements are necessary.
 
   ## Tests
   Test by running node index.js in the command line to be ascertained that the prompts are running in the terminal. Then after all inputs are filled in, make sure the README file has all information available for the user.
