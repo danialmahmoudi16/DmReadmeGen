@@ -59,6 +59,8 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
+  
+  Link to video walkthrough: https://drive.google.com/file/d/1hOYWIQfyTCgLvCcsC29WZOYj5eoE-Pik/view
 
   ## License
   ${data.license}

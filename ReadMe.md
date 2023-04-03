@@ -18,12 +18,14 @@
 
   ## Usage
   Implement the inquirer package by running node index.js in the command line (prefferably using terminal).
+  
+  Link to video walkthrough: https://drive.google.com/file/d/1hOYWIQfyTCgLvCcsC29WZOYj5eoE-Pik/view
 
   ## License
   MIT
 
   ## Contribution
-  Fork to existing Github and potential changes may be made depending on if improvements are necessary.
+  Fork to the existing Github and potential changes may be made depending on if improvements are necessary.
 
   ## Tests
   Test by running node index.js in the command line to be ascertained that the prompts are running in the terminal. Then after all inputs are filled in, make sure the README file has all information available for the user.
